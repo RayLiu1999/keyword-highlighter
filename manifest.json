@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "關鍵詞螢光筆",
+  "name": "Keyword Highlighter",
   "version": "1.0",
-  "description": "在您瀏覽的網頁上，自動標示出您設定的關鍵詞（支援預設公司清單）。",
+  "description": "Highlight your specified keywords on any webpage you visit.",
   "permissions": [
     "storage",
     "activeTab"
