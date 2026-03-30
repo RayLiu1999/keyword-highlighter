@@ -1,0 +1,7 @@
+.highlighted-keyword {
+  background-color: yellow !important;
+  color: black !important;
+  font-weight: bold !important;
+  padding: 1px !important;
+  border-radius: 3px !important;
+}
